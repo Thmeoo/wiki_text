@@ -1,0 +1,4 @@
+gensim==4.3.2
+opencc_python_reimplemented==0.1.7
+tqdm==4.65.0
+
